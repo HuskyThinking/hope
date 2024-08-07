@@ -1,2 +1,3 @@
 # hope
-希望
+## hope-dependencies
+> 依赖管理
